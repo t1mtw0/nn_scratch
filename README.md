@@ -2,15 +2,11 @@
 
 This repository contains code that will implement a neural network using only the python library numpy. Gradient descent, activation functions, and backpropagation are all implemented with just numpy.
 
-<br>
-
 ## Usage
 
 In order to run the example, paste the following command:
 
 `python main.py`
-
-<br>
 
 ## Implementation
 
@@ -24,15 +20,6 @@ The following are implemented:
 
 All of the code is batched, and will run with that in mind when the batchs are in the 0th dimension. All of the supporting functions and classes are inside the nn.py file.
 
-<br>
-
 ## License
 
 [MIT](<https://github.com/thksrc/nn_scratch/blob/master/LICENSE>)
-
-# <br>
-
-
-
-<br>
-
